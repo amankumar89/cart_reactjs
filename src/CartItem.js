@@ -9,6 +9,9 @@ class CartItem extends React.Component {
       img: "",
     };
   }
+
+  increaseQuantity = () => {};
+
   render() {
     const { price, title, qty } = this.state;
     return (
@@ -26,6 +29,7 @@ class CartItem extends React.Component {
               alt="increase"
               className="action-icons"
               src="https://cdn-icons-png.flaticon.com/512/3303/3303893.png"
+              onClick={this.increaseQuantity}
             />
             <img
               alt="decrease"
