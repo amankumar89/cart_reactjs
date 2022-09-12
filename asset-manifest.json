@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amankumar89/cart_reactjs.git/static/css/main.cb5d5e7a.css",
+    "main.js": "/amankumar89/cart_reactjs.git/static/js/main.12a436ea.js",
+    "index.html": "/amankumar89/cart_reactjs.git/index.html",
+    "main.cb5d5e7a.css.map": "/amankumar89/cart_reactjs.git/static/css/main.cb5d5e7a.css.map",
+    "main.12a436ea.js.map": "/amankumar89/cart_reactjs.git/static/js/main.12a436ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5d5e7a.css",
+    "static/js/main.12a436ea.js"
+  ]
+}
